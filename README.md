@@ -2,7 +2,7 @@
 
 **[WEBSITE DEMO LINK](medipro-learning-disabilities.netlify.app)**
 
-![MediPro: Learning Disabilities](/public/screenshot.PNG)
+![MediPro: Learning Disabilities](./public/screenshot.PNG)
 
 ## **Problem statement:**
 
@@ -53,15 +53,15 @@ This app aims to educate and inform its users on the different types of learning
 
 **Day 1 Trello board**
 
-![MediPro: Learning Disabilities](/public/trello1.PNG)
+![MediPro: Learning Disabilities](./public/trello1.PNG)
 
 **Day 2 Trello board**
 
-![MediPro: Learning Disabilities](/public/trello2.PNG)
+![MediPro: Learning Disabilities](./public/trello2.PNG)
 
 **User persona**
 
-![MediPro: Learning Disabilities](/public/persona.PNG)
+![MediPro: Learning Disabilities](./public/persona.PNG)
 
 **User Story**
 
@@ -73,15 +73,15 @@ This app aims to educate and inform its users on the different types of learning
 
 **Wireframes**
 
-![MediPro: Learning Disabilities](/public/w1.PNG)
+![MediPro: Learning Disabilities](./public/w1.PNG)
 
-![MediPro: Learning Disabilities](/public/w2.PNG)
+![MediPro: Learning Disabilities](./public/w2.PNG)
 
-![MediPro: Learning Disabilities](/public/w3.PNG)
+![MediPro: Learning Disabilities](./public/w3.PNG)
 
 **Identifying reusable components from wireframe**
 
-![MediPro: Learning Disabilities](/public/w4.PNG)
+![MediPro: Learning Disabilities](./public/w4.PNG)
 
 ## Main Learning Points:
 
