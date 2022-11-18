@@ -53,16 +53,15 @@ This app aims to educate and inform its users on the different types of learning
 
 **Day 1 Trello board**
 
-![trello image 1](./public/trello1.PNG)
-<img src="./public/trello1.PNG" width="800" />
+![trello image 1](./public/trello1.png)
 
 **Day 2 Trello board**
 
-![trello image 2](./public/trello2.PNG)
+![trello image 2](./public/trello2.png)
 
 **User persona**
 
-![trello image 3](./public/persona.PNG)
+![trello image 3](./public/persona.png)
 
 **User Story**
 
@@ -74,15 +73,15 @@ This app aims to educate and inform its users on the different types of learning
 
 **Wireframes**
 
-![wireframe 1](./public/w1.PNG)
+![wireframe 1](./public/w1.png)
 
-![wireframe 2](./public/w2.PNG)
+![wireframe 2](./public/w2.png)
 
-![wireframe 3](./public/w3.PNG)
+![wireframe 3](./public/w3.png)
 
 **Identifying reusable components from wireframe**
 
-![wireframe 4](./public/w4.PNG)
+![wireframe 4](./public/w4.png)
 
 ## Main Learning Points:
 
