@@ -1,6 +1,6 @@
 # MediPro: Learning Disabilities
 
-**[WEBSITE DEMO LINK](https://medipro-learning-disabilities.netlify.app/Causes)**
+**[WEBSITE DEMO LINK](https://medipro-learning-disabilities.netlify.app/)**
 
 ![MediPro: Learning Disabilities](./public/screenshot.PNG)
 
