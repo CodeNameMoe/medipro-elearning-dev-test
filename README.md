@@ -53,15 +53,15 @@ This app aims to educate and inform its users on the different types of learning
 
 **Day 1 Trello board**
 
-![MediPro: Learning Disabilities](./public/trello1.PNG)
+![trello image 1](./public/trello1.PNG)
 
 **Day 2 Trello board**
 
-![MediPro: Learning Disabilities](./public/trello2.PNG)
+![trello image 2](./public/trello2.PNG)
 
 **User persona**
 
-![MediPro: Learning Disabilities](./public/persona.PNG)
+![trello image 3](./public/persona.PNG)
 
 **User Story**
 
@@ -73,15 +73,15 @@ This app aims to educate and inform its users on the different types of learning
 
 **Wireframes**
 
-![MediPro: Learning Disabilities](./public/w1.PNG)
+![wireframe 1](./public/w1.PNG)
 
-![MediPro: Learning Disabilities](./public/w2.PNG)
+![wireframe 2](./public/w2.PNG)
 
-![MediPro: Learning Disabilities](./public/w3.PNG)
+![wireframe 3](./public/w3.PNG)
 
 **Identifying reusable components from wireframe**
 
-![MediPro: Learning Disabilities](./public/w4.PNG)
+![wireframe 4](./public/w4.PNG)
 
 ## Main Learning Points:
 
