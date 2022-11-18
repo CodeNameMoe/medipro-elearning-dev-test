@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "../coursecard/coursecard.module.css";
 import Image from "next/image";
-import child from "../../assets/child.jpg";
+import child from "../../public/child.jpg";
 function CourseCard() {
   return (
     <div className={styles.container}>

@@ -1,8 +1,11 @@
 .container {
+    position:absolute;
     background: var(--sidebar-bg);
     height: 100vh;
     width: 30%;
     overflow-y: auto;
+    top: 0px;
+    left: 0px
 }
 
 .nav {
@@ -20,4 +23,9 @@
 
 .arrow {
     font-size: 1.5rem;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
 }
