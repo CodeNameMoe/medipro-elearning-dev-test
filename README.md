@@ -83,13 +83,6 @@ This app aims to educate and inform its users on the different types of learning
 
 ![wireframe 4](./public/w4.png)
 
-## Main Learning Points:
-
-- DOM manipulation using vanilla JS.
-- UX/UI design principles.
-- Colour theory
-- Media queries for responsiveness.
-
 ## Built with:
 
 - HTML
