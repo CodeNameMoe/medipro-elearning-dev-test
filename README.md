@@ -54,6 +54,7 @@ This app aims to educate and inform its users on the different types of learning
 **Day 1 Trello board**
 
 ![trello image 1](./public/trello1.PNG)
+<img src="./public/trello1.PNG" width="800" />
 
 **Day 2 Trello board**
 
