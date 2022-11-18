@@ -1,10 +1,87 @@
-# Fanta Zero Landing Page
+# MediPro: Learning Disabilities
 
-**[DEMO LINK](https://fantazero.netlify.app/)**
+**[WEBSITE DEMO LINK](medipro-learning-disabilities.netlify.app)**
 
-![Fanta Zero Landing Page](/assets/fanta_zero_landing_page.PNG)
+![MediPro: Learning Disabilities](/public/screenshot.PNG)
 
-As part of my day 12 #100daysofcode challange, I wanted to build something with vanilla JavaScript as opposed to using react or next.js. I decided to build a landing page for Fanta zero, inspired partly by my healthy choice of beverage that day and a Starbucks landing page I came across.
+## **Problem statement:**
+
+People with learning disabilities do not learn certain skills as quickly as other people, and may therefore need extra help in certain aspects of their lives. The specific skills in question will depend upon the type of disability.
+
+## **Solution:**
+
+This app aims to educate and inform its users on the different types of learning disabilities people live with, while also providing practical ways of assisting them in their day-to-day lives.
+
+## MVP requirements / features
+
+**Must Have:**
+
+- Original text from document
+- Interactivity e-learning format
+
+**Like to Have:**
+
+15 small learning sections based on the document
+
+- Introduction
+- Understanding Learning Disabilities
+- Common types of learning disability
+- Causes
+- Statistics
+- Support
+- Treatment/Management
+- Legislation
+- Patients at risk of HARM
+- Barriers to Support
+- Inequalities in Health for Learning Disabilities
+- Access to healthcare
+- Annual health checks
+- Associated health conditions
+- Reasonable adjustments
+
+**Features:**
+
+- Animated slide show with text and images from document.
+- Ability to play audio narration of text.
+- Short multiple question quiz at the end of each section.
+- Semantic HTML and focus mode.
+- Final quiz score and certificate of completion.
+- Confetti based on score.
+- Certificate sharable on social media.
+
+## Planning
+
+**Day 1 Trello board**
+
+![MediPro: Learning Disabilities](/public/trello1.PNG)
+
+**Day 2 Trello board**
+
+![MediPro: Learning Disabilities](/public/trello2.PNG)
+
+**User persona**
+
+![MediPro: Learning Disabilities](/public/persona.PNG)
+
+**User Story**
+
+- As a health care assistant.
+
+- I want to understand how having a learning difficulty effects my patients.
+
+- So that I can make sure that I can provide the best possible care for them.
+
+**Wireframes**
+
+![MediPro: Learning Disabilities](/public/w1.PNG)
+
+![MediPro: Learning Disabilities](/public/w2.PNG)
+
+![MediPro: Learning Disabilities](/public/w3.PNG)
+
+**Identifying reusable components from wireframe**
+
+![MediPro: Learning Disabilities](/public/w4.PNG)
 
 ## Main Learning Points:
 
@@ -18,6 +95,8 @@ As part of my day 12 #100daysofcode challange, I wanted to build something with 
 - HTML
 - CSS
 - JavaScript
+- Next.js
+- CSS Modules
 
 ## Getting Started:
 
@@ -31,6 +110,6 @@ No prerequisites
 
 1.  Clone the repo
 
-`git clone https://github.com/CodeNameMoe/fanta-zero-sugar-landing-page`
+`git clone https://github.com/CodeNameMoe/medipro-elearning-dev-test`
 
-2. Open using live server from index.html
+2. npm run dev
