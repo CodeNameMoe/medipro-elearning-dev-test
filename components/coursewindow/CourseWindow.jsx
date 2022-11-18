@@ -7,7 +7,8 @@ import {
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
 import { FaUserCircle } from "react-icons/fa";
-import img1 from "../../public/1.jpg";
+import img1 from "../../public/first.jpg";
+import img2 from "../../public/1.jpg";
 import { useState } from "react";
 
 function CourseWindow() {
@@ -19,7 +20,7 @@ function CourseWindow() {
       <h1>Introduction</h1>
       <section className={styles.window}>
         <Image
-          src={data[0].slides[0].imgPath}
+          src={img1}
           alt="#"
           width={600}
           height={350}
@@ -33,7 +34,7 @@ function CourseWindow() {
           <br />
           <br />
           <Image
-            src={data[0].slides[1].imgPath}
+            src={img2}
             alt="#"
             width={600}
             height={350}
