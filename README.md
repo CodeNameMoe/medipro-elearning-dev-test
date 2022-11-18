@@ -1,8 +1,8 @@
 # MediPro: Learning Disabilities
 
-**[WEBSITE DEMO LINK](https:\medipro-learning-disabilities.netlify.app\Causes)**
+**[WEBSITE DEMO LINK](https://medipro-learning-disabilities.netlify.app/Causes)**
 
-![MediPro: Learning Disabilities](.\public\screenshot.PNG)
+![MediPro: Learning Disabilities](./public/screenshot.PNG)
 
 ## **Problem statement:**
 
@@ -12,7 +12,7 @@ People with learning disabilities do not learn certain skills as quickly as othe
 
 This app aims to educate and inform its users on the different types of learning disabilities people live with, while also providing practical ways of assisting them in their day-to-day lives.
 
-## MVP requirements \ features
+## MVP requirements / features
 
 **Must Have:**
 
@@ -29,7 +29,7 @@ This app aims to educate and inform its users on the different types of learning
 - Causes
 - Statistics
 - Support
-- Treatment\Management
+- Treatment/Management
 - Legislation
 - Patients at risk of HARM
 - Barriers to Support
@@ -53,15 +53,15 @@ This app aims to educate and inform its users on the different types of learning
 
 **Day 1 Trello board**
 
-![trello image 1](.\public\trello1.PNG)
+![trello image 1](./public/trello1.PNG)
 
 **Day 2 Trello board**
 
-![trello image 2](.\public\trello2.PNG)
+![trello image 2](./public/trello2.PNG)
 
 **User persona**
 
-![trello image 3](.\public\persona.PNG)
+![trello image 3](./public/persona.PNG)
 
 **User Story**
 
@@ -73,20 +73,20 @@ This app aims to educate and inform its users on the different types of learning
 
 **Wireframes**
 
-![wireframe 1](.\public\w1.PNG)
+![wireframe 1](./public/w1.PNG)
 
-![wireframe 2](.\public\w2.PNG)
+![wireframe 2](./public/w2.PNG)
 
-![wireframe 3](.\public\w3.PNG)
+![wireframe 3](./public/w3.PNG)
 
 **Identifying reusable components from wireframe**
 
-![wireframe 4](.\public\w4.PNG)
+![wireframe 4](./public/w4.PNG)
 
 ## Main Learning Points:
 
 - DOM manipulation using vanilla JS.
-- UX\UI design principles.
+- UX/UI design principles.
 - Colour theory
 - Media queries for responsiveness.
 
@@ -110,6 +110,6 @@ No prerequisites
 
 1.  Clone the repo
 
-`git clone https:\github.com\CodeNameMoe\medipro-elearning-dev-test`
+`git clone https://github.com/CodeNameMoe/medipro-elearning-dev-test`
 
 2. npm run dev
