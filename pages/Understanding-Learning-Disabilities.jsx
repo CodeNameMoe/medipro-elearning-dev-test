@@ -8,6 +8,7 @@ import {
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
 import { FaUserCircle } from "react-icons/fa";
+import child from "../public/child.jpg";
 
 function Understand() {
   return (
@@ -20,7 +21,7 @@ function Understand() {
         <h1>Understanding Learning Disabilities</h1>
         <section className={styles.window}>
           <Image
-            src={data[1].slides[0].imgPath}
+            src={child}
             alt="#"
             width={500}
             height={350}

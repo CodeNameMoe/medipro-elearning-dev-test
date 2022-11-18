@@ -8,6 +8,7 @@ import {
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
 import { FaUserCircle } from "react-icons/fa";
+import causes from "../public/3.png";
 
 function Causes() {
   return (
@@ -20,7 +21,7 @@ function Causes() {
         <h1>Causes</h1>
         <section className={styles.window}>
           <Image
-            src={data[3].slides[0].imgPath}
+            src={causes}
             alt="#"
             width={400}
             height={350}

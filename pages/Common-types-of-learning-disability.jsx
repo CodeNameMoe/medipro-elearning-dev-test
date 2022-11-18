@@ -8,6 +8,7 @@ import {
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";
 import { FaUserCircle } from "react-icons/fa";
+import common from "../public/2.jpg";
 
 function Common() {
   return (
@@ -17,10 +18,10 @@ function Common() {
         <div className={styles.user}>
           <FaUserCircle />
         </div>
-        <h1>Understanding Learning Disabilities</h1>
+        <h1>Common Types Of Learning Disabilities</h1>
         <section className={styles.window}>
           <Image
-            src={data[2].slides[0].imgPath}
+            src={common}
             alt="#"
             width={500}
             height={350}
